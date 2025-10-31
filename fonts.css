@@ -1,0 +1,72 @@
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Bold.eot") format("embedded-opentype"), url("fonts/Montserrat Bold.ttf") format("truetype"), url("fonts/Montserrat Bold.woff") format("woff"), url("fonts/Montserrat Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Regular.eot") format("embedded-opentype"), url("fonts/Montserrat Regular.ttf") format("truetype"), url("fonts/Montserrat Regular.woff") format("woff"), url("fonts/Montserrat Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat.eot") format("embedded-opentype"), url("fonts/Montserrat.otf") format("opentype"), url("fonts/Montserrat.woff") format("woff");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Black.eot") format("embedded-opentype"), url("fonts/Montserrat-Black.otf") format("opentype"), url("fonts/Montserrat-Black.woff") format("woff");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Light.eot") format("embedded-opentype"), url("fonts/Montserrat-Light.otf") format("opentype"), url("fonts/Montserrat-Light.woff") format("woff");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Bold.eot") format("embedded-opentype"), url("fonts/Montserrat-Bold.ttf") format("truetype"), url("fonts/Montserrat-Bold.woff") format("woff"), url("fonts/Montserrat-Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Regular.eot") format("embedded-opentype"), url("fonts/Montserrat-Regular.ttf") format("truetype"), url("fonts/Montserrat-Regular.woff") format("woff"), url("fonts/Montserrat-Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Bold";
+   src: url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype"), url("fonts/BebasNeueBold.woff") format("woff");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Futura Bk BT";
+   src: url("fonts/Futura Bk BT Book Italic.eot") format("embedded-opentype"), url("fonts/Futura Bk BT Book Italic.ttf") format("truetype"), url("fonts/Futura Bk BT Book Italic.woff") format("woff"), url("fonts/Futura Bk BT Book Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Futura Bk BT";
+   src: url("fonts/Futura Bk BT Book.eot") format("embedded-opentype"), url("fonts/Futura Bk BT Book.ttf") format("truetype"), url("fonts/Futura Bk BT Book.woff") format("woff"), url("fonts/Futura Bk BT Book.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Franklin Gothic Medium";
+   src: url("fonts/Franklin Gothic Medium.eot") format("embedded-opentype"), url("fonts/Franklin Gothic Medium.ttf") format("truetype"), url("fonts/Franklin Gothic Medium.woff") format("woff"), url("fonts/Franklin Gothic Medium.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Franklin Gothic Medium";
+   src: url("fonts/Franklin Gothic Medium Italic.eot") format("embedded-opentype"), url("fonts/Franklin Gothic Medium Italic.ttf") format("truetype"), url("fonts/Franklin Gothic Medium Italic.woff") format("woff"), url("fonts/Franklin Gothic Medium Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
